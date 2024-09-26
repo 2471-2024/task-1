@@ -1,0 +1,11 @@
+{
+  "name": "daystonewyear",
+  "version": "1.0.0",
+  "description": "days to new year",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "KazankovRuslan",
+  "license": "ISC"
+}
