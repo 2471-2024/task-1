@@ -1,10 +1,9 @@
-function daysToNewYear() {
-    var today = new Date();
-    var currentYear = today.getFullYear();
+function daysToNewYear(date) {
+    var currentYear = date.getFullYear();
     var newYear = new Date(currentYear + 1, 0, 1);
-    var timeDiff = newYear - today;
+    var timeDiff = newYear - date;
     var daysLeft = Math.ceil(timeDiff / (1000 * 60 * 60 * 24));
     return daysLeft;
 }
-
-console.log(`До нового года осталось ${daysToNewYear()} дней.`);
+module.exports = daysToNewYear;
+console.log(`До нового года осталось ${daysToNewYear(new Date())} дней.`);
