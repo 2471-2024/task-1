@@ -21,7 +21,7 @@
 | :-:	|  ---	|
 | Гаврилина Дарья Эдуардовна | [GavrilinaDarya](https://github.com/GavrilinaDarya) |
 | Кузнецов Андрей Александрович | [KuznecovAndrey](https://github.com/hmniaq) |
-| Казанков Руслан Константинович | [KazankovRuslan](https://github.com/KazankovRuslan) |
+| Казанков Руслан Константинович | [KazankovRuslan](https://github.com/RuslanKazankov) |
 
 <details>
 <summary>сразу после коммита</summary>
