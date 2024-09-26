@@ -27,14 +27,14 @@
 
 <details>
 <summary>сразу после коммита</summary>
-  
-![image](https://github.com/user-attachments/assets/add43f8e-a0aa-4f7d-bad9-e93955cebd86)
-![image](https://github.com/user-attachments/assets/72fd9179-2062-448a-b4c7-67e7a99a3e14)
+
+![image](https://github.com/user-attachments/assets/a2bdd44e-a2e5-4d63-8772-2cc232c05d18)
+![image](https://github.com/user-attachments/assets/8fdad818-c125-45b0-9278-9c4e0308a04b)
 </details>
 
 <details>
 <summary>в случае успешной проверки</summary>
-  
-![image](https://github.com/user-attachments/assets/f7e5bd84-be0c-4711-905f-a1f45daa5860)
-![image](https://github.com/user-attachments/assets/fb3652b2-0103-4d83-b1e1-8305f0cc8fa8)
+
+![image](https://github.com/user-attachments/assets/98d1dda7-32f0-45ea-8bbf-f06fe1c0480e)
+![image](https://github.com/user-attachments/assets/ebeeb065-9396-49fe-8fbd-1114b1e4366e)
 </details>
