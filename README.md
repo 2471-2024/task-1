@@ -20,6 +20,7 @@
 | ФИО | Аккаунт |
 | :-:	|  ---	|
 | Гаврилина Дарья Эдуардовна | [GavrilinaDarya](https://github.com/GavrilinaDarya) |
+| Александров Даниил Романович | [Rpt87gtm](https://github.com/Rpt87gtm) |
 
 <details>
 <summary>сразу после коммита</summary>
