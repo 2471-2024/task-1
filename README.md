@@ -20,6 +20,7 @@
 | ФИО | Аккаунт |
 | :-:	|  ---	|
 | Гаврилина Дарья Эдуардовна | [GavrilinaDarya](https://github.com/GavrilinaDarya) |
+| Кузнецов Андрей Александрович | [KuznecovAndrey](https://github.com/hmniaq) |
 
 <details>
 <summary>сразу после коммита</summary>
