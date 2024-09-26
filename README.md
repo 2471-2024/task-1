@@ -22,6 +22,7 @@
 | Гаврилина Дарья Эдуардовна | [GavrilinaDarya](https://github.com/GavrilinaDarya) |
 | Александров Даниил Романович | [Rpt87gtm](https://github.com/Rpt87gtm) |
 | Кузнецов Андрей Александрович | [KuznecovAndrey](https://github.com/hmniaq) |
+| Казанков Руслан Константинович | [KazankovRuslan](https://github.com/RuslanKazankov) |
 
 
 <details>
