@@ -1,0 +1,35 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+
+name: Node.js CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Init node v22
+      uses: actions/setup-node@v4
+      with:
+        node-version: 22
+    - name: Run all test
+      run: >
+        for d in projects/* ; do
+            echo "test $d: RUN"
+            if [ -d "$d/node_modules" ]; then
+                echo "$d/node_modules does exist."
+                exit 1
+            fi
+            cd $d
+            yarn
+            yarn test
+            rm -r node_modules
+            cd ../..
+            echo "test $d: OK"
+        done
