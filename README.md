@@ -20,6 +20,7 @@
 | ФИО | Аккаунт |
 | :-:	|  ---	|
 | Гаврилина Дарья Эдуардовна | [GavrilinaDarya](https://github.com/GavrilinaDarya) |
+| Немтинов Павел Алексеевич | [MrLyasichka007](https://github.com/MrLyasichka007) |
 
 <details>
 <summary>сразу после коммита</summary>
