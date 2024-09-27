@@ -27,5 +27,6 @@ jobs:
             yarn
             yarn test
             rm -r node_modules
+            cd ../..
             echo "test $d: OK"
         done
