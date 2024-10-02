@@ -1,0 +1,12 @@
+{
+  "name": "countdownofdaysuntilnewyear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node tests.js"
+  },
+  "author": "Aleksandrov Dannil",
+  "license": "ISC"
+}
