@@ -24,6 +24,8 @@
 | Кузнецов Андрей Александрович | [KuznecovAndrey](https://github.com/hmniaq) |
 | Казанков Руслан Константинович | [KazankovRuslan](https://github.com/RuslanKazankov) |
 | Немтинов Павел Алексеевич | [MrLyasichka007](https://github.com/MrLyasichka007) |
+| Алексеев Андрей Евгеньевич | [dyscarnate](https://github.com/dyscarnate) |
+
 
 <details>
 <summary>сразу после коммита</summary>
