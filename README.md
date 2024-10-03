@@ -25,6 +25,7 @@
 | Казанков Руслан Константинович | [KazankovRuslan](https://github.com/RuslanKazankov) |
 | Немтинов Павел Алексеевич | [MrLyasichka007](https://github.com/MrLyasichka007) |
 | Алексеев Андрей Евгеньевич | [dyscarnate](https://github.com/dyscarnate) |
+| Спиваченко Михаил Витальевич | [alljay5](https://github.com/alljay5) |
 
 
 <details>
