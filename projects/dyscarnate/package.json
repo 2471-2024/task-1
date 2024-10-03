@@ -1,0 +1,12 @@
+{
+  "name": "alekseev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/tests.js",
+    "start":"node srs/main.js"
+  },
+  "author": "alekseev",
+  "license": "ISC",
+  "description": ""
+}
