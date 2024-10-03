@@ -1,0 +1,12 @@
+{
+  "name": "lessonne",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node tests/test.js"
+  },
+  "author": "Mihail Spivachenko",
+  "license": "ISC"
+}
