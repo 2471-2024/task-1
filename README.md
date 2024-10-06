@@ -26,6 +26,7 @@
 | Немтинов Павел Алексеевич | [MrLyasichka007](https://github.com/MrLyasichka007) |
 | Алексеев Андрей Евгеньевич | [dyscarnate](https://github.com/dyscarnate) |
 | Спиваченко Михаил Витальевич | [alljay5](https://github.com/alljay5) |
+| Федоров Никита Олегович | [NiFed64](https://github.com/NiFed64) |
 
 
 <details>
