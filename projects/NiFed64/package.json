@@ -1,0 +1,12 @@
+{
+  "name": "NiFed64",
+  "version": "1.0.0",
+  "description": "Lab2",
+  "main": "daysTillNY.js",
+  "scripts": {
+    "test": "node testIt.js"
+  },
+  "keywords": [],
+  "author": "Nikita Fedorov",
+  "license": "ISC"
+}
