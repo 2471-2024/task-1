@@ -29,6 +29,7 @@
 |  Спиваченко Михаил Витальевич  | [alljay5](https://github.com/alljay5)               |
 |    Федоров Никита Олегович     | [NiFed64](https://github.com/NiFed64)               |
 |   Гнедов Алексей Михайлович    | [DINIGMA](https://github.com/DINIGMA)               |
+|   Погосян Самвел Оганнесович   | [SamvelPogosyan](https://github.com/SamvelPogosyan) |
 
 <details>
 <summary>сразу после коммита</summary>
