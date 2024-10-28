@@ -30,6 +30,7 @@
 |    Федоров Никита Олегович     | [NiFed64](https://github.com/NiFed64)               |
 |   Гнедов Алексей Михайлович    | [DINIGMA](https://github.com/DINIGMA)               |
 |   Погосян Самвел Оганнесович   | [SamvelPogosyan](https://github.com/SamvelPogosyan) |
+|     Дудин Кирилл Викторович    | [SickMain](https://github.com/SickMain)             |
 
 <details>
 <summary>сразу после коммита</summary>
